@@ -11,40 +11,20 @@ htop
 btop
 unzip
 wget
-zsh
 
 # === Editors & Terminals ===
-alacritty
-ghostty
-lunarvim
+kitty
 windsurf
-neovim
 vim
 
-# === GUI Components ===
-rofi
-sway
-swaylock
-swayidle
-waybar
-wofi
-xwayland
-wl-clipboard
-grim
-slurp
-
 # === Applications ===
-arandr
+wdisplays
 blueman
-discord-ptb
 firefox
 chromium
-logseq
-pavucontrol
 obsidian
 
 # === Gaming ===
-steam
 lutris
 wine
 winetricks

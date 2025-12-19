@@ -21,8 +21,6 @@ black
 
 ];
 
-environment.variables = {
-  cc = "gcc";
-};
+environment.variables.CC = "gcc";
 
 }
